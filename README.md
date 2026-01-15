@@ -69,10 +69,10 @@
   <a href="https://github.com/TheSiddKid">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/junaid-siddiqui">
+  <a href="https://linkedin.com/in/TheSiddKid">
     <img src="https://img.shields.io/badge/LinkedIn-00ffd5?style=for-the-badge&logo=linkedin&logoColor=000" />
   </a>
-  <a href="mailto:junaidsiddiqui.dev@gmail.com">
+  <a href="mailto:thesiddkid@gmail.com">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" />
   </a>
 </p>
