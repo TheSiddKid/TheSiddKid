@@ -79,7 +79,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=thesiddkid&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=thesiddkid&theme=tokyonight"
     alt="Junaid's GitHub Streak"
   />
 </p>
