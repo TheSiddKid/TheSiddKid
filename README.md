@@ -64,19 +64,28 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thesiddkid&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=thesiddkid&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Junaid's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesiddkid&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesiddkid&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Junaid's Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesiddkid&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=thesiddkid&theme=tokyonight&hide_border=true"
+    alt="Junaid's GitHub Streak"
+  />
 </p>
 
 ---
 
 <p align="center">
-⚡ <i>Building clean interfaces, smooth animations & intelligent web systems</i>
+  ⚡ <i>Building clean interfaces, smooth animations & intelligent web systems</i>
 </p>
