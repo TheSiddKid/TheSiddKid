@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  - Junaid's GitHub Streak: **[streak-stats.demolab.com/?user=thesiddkid&theme=tokyonight](https://streak-stats.demolab.com/?user=thesiddkid&theme=tokyonight)**
+  - Junaid's GitHub Streak: (https://streak-stats.demolab.com/?user=thesiddkid&theme=tokyonight)
 </p>
 
 ---
