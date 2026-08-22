@@ -78,10 +78,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=thesiddkid&theme=tokyonight&hide_border=true&utm_source=chatgpt.com"
-    alt="Junaid's GitHub Streak"
-  />
+  - Junaid's GitHub Streak: **[streak-stats.demolab.com/?user=thesiddkid&theme=tokyonight](https://streak-stats.demolab.com/?user=thesiddkid&theme=tokyonight)**
 </p>
 
 ---
