@@ -62,21 +62,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=thesiddkid&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Junaid's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesiddkid&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Junaid's Top Languages"
-  />
-</p>
-
 <p align="center">
   - Junaid's GitHub Streak: (https://streak-stats.demolab.com/?user=thesiddkid&theme=tokyonight)
 </p>
