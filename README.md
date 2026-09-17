@@ -3,12 +3,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thesiddkid&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/twitter/follow/thesiddkid?logo=twitter&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thesiddkid&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
